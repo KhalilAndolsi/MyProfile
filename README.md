@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalil Andolsi</h1>
 <h3 align="center">A fullstack developer in Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalilandolsi" alt="khalilandolsi" /></a> </p>
-
 - 🔭 I’m currently working on next js projects **Gym manager**
 
 - 🌱 I’m currently learning AI integration **Next Js 15, Open AI, ai**
